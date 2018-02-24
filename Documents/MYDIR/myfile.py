@@ -1,2 +1,0 @@
-import nampy as npp
-
